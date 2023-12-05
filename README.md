@@ -5,9 +5,11 @@ PRIMEIRO:
 
 ```git clone git@github.com:caueperuque/estacionamento-csharp.git```
 
+
 APÓS CLONAR O REPOSITÓRIO:
 
 ```cd DesafioFundamentos```
+
 
 COMANDO PARA RODAR A APLICAÇÃO, APÓS ENTRAR NA PASTA 🚀🚀:
 
