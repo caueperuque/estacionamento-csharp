@@ -2,12 +2,15 @@
 
 ## Como faço para rodar o programa? 🤔🤔
 PRIMEIRO:
+
 ```git clone git@github.com:caueperuque/estacionamento-csharp.git```
 
 APÓS CLONAR O REPOSITÓRIO:
+
 ```cd DesafioFundamentos```
 
 COMANDO PARA RODAR A APLICAÇÃO, APÓS ENTRAR NA PASTA 🚀🚀:
+
 ```dotnet run```
 
 ## Contexto
@@ -15,6 +18,8 @@ Estacionamento que será usado para gerenciar os veículos estacionados e realiz
 
 ## Proposta
 Diagrama da classe "Estacionamento":
+
+
 ![Diagrama de classe estacionamento](diagrama_classe_estacionamento.png)
 
 A classe contém três variáveis, sendo:
